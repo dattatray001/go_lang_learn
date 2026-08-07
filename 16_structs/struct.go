@@ -32,7 +32,7 @@ type order struct {
 // 	return &myOrder
 // }
 
-// // receiver type
+// receiver type
 // func (o *order) changeStatus(status string) {
 // 	o.status = status
 // }
