@@ -1,0 +1,11 @@
+init module in go
+go mod init github.com/dattatary001/myApp
+
+package repositery -> go package
+https://pkg.go.dev/
+
+insatll libery
+go get github.com/fatih/color
+
+reslove issue
+>go mod tidy
